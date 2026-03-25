@@ -2,17 +2,17 @@
 **Future Interns – Data Science & Analytics | Task 2**
 
 
-## 📌 Objective
+##  Objective
 Analyze customer subscription data to identify churn patterns, key retention drivers, and customer lifetime trends — and deliver actionable recommendations to reduce customer loss for a subscription-based business.
 
 
-## 📁 Dataset
+##  Dataset
 - **Source:** Telco Customer Churn Dataset (Kaggle)
 - **Records:** 7,032 customers
 - **Features:** Contract type, tenure, payment method, services, monthly charges
 
 
-## 🛠️ Tools Used
+##  Tools Used
 - Python (pandas, matplotlib, seaborn)
 - Kaggle Notebook
 
@@ -33,7 +33,7 @@ Analyze customer subscription data to identify churn patterns, key retention dri
 | Highest Churn Payment Method | Electronic check |
 
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### 1. Contract Type is the Strongest Churn Predictor
 - Month-to-month customers churn at dramatically higher rates
@@ -57,7 +57,7 @@ Analyze customer subscription data to identify churn patterns, key retention dri
 - More services = more switching costs = lower churn
 
 
-## ✅ Recommendations
+##  Recommendations
 1. Offer discounts to convert month-to-month customers to annual contracts
 2. Build a structured onboarding program with check-ins at months 1, 3, and 6
 3. Introduce loyalty discounts for high-charge customers in their first year
