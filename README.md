@@ -1,5 +1,5 @@
 # 📉 Customer Retention & Churn Analysis
-**Future Interns – Data Science & Analytics | Task 2**
+
 
 
 ##  Objective
@@ -69,4 +69,4 @@ Analyze customer subscription data to identify churn patterns, key retention dri
 [View Full Analysis & Code](https://www.kaggle.com/code/aqsqcoder/notebook12c4e6acde)
 
 
-*Internship: Future Interns | Track: Data Science & Analytics | Task: FUTURE_DS_02*
+
